@@ -1,13 +1,6 @@
-# Desafio01: Explore o que você já aprendeu!
+# curso-vuejs
 
-1. Crie dois novos componentes
-2. Configure as páginas usando o Router
-
-# Desafio02: Crie novas reações!
-
-1. Crie um componente para receber dados em um formulário
-2. Exiba esses dados como no exemplo abaixo:
---------------------------
+> A Vue.js project
 
 ## Build Setup
 
@@ -17,3 +10,12 @@ npm install
 
 # serve with hot reload at localhost:8080
 npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+```
+
+For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
