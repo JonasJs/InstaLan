@@ -6,7 +6,7 @@
       <div class="nav-icon">
         <ul>
           <li>
-            <a href=""><i class="fa fa-picture-o" aria-hidden="true"></i></a>
+            <a href="/#/"><i class="fa fa-picture-o" aria-hidden="true"></i></a>
           </li>
           <li>
             <a href="#/profile"><i class="fa fa-user" aria-hidden="true"></i></a>

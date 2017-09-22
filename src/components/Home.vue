@@ -1,12 +1,19 @@
 <template>
 
+	<div>
+		<gallery> </gallery>
 
+	</div>
 
 </template>
  
 <script>
+import Gallery from '@/components/Gallery';
 export default {
-  name: 'Index',
+  name: 'Home',
+   components:{
+    Gallery
+  },
   data () {
     return {
       msg: 'Bem-Vindo'
