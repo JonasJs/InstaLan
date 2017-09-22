@@ -109,7 +109,7 @@ hr{
 	
 }
 .item-form input{
-	width: 100%;
+	width: 90%;
 	margin-top: 5px;
 	height: 40px;
 	border: none;
